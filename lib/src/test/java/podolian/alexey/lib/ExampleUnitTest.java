@@ -1,4 +1,4 @@
-package podolian.alexey.lib;
+package com.lib;
 
 import org.junit.Test;
 
