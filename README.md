@@ -7,15 +7,7 @@ Minimum code for Gradle integration, place code in your module build.gradle
 
 ```
 dependencies {
-  compile 'com.github.alexeypodolian:Logger:0.0.1-SNAPSHOT'
-}
-```
-
-##Also add into project build.gradle file:
-
-```
-repositories {
-     maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+  compile 'com.github.alexeypodolian:Logger:0.0.2'
 }
 ```
 
